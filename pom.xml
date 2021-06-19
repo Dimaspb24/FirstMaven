@@ -15,7 +15,7 @@
 
     <groupId>com.bogdanov</groupId>
     <artifactId>first-maven</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <modules>
         <module>database</module>
@@ -29,7 +29,7 @@
         <connection>scm:git:git@github.com:Dimaspb24/FirstMaven.git</connection>
         <developerConnection>scm:git:git@github.com:Dimaspb24/FirstMaven.git</developerConnection>
         <url>https://github.com/Dimaspb24/FirstMaven</url>
-      <tag>first-maven-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>
