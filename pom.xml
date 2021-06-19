@@ -26,8 +26,11 @@
     <packaging>pom</packaging>
 
     <name>first-maven</name>
-    <!-- FIXME change it to the project's website -->
-    <url>http://www.example.com</url>
+    <scm>
+        <connection>scm:git:git@github.com:Dimaspb24/FirstMaven.git</connection>
+        <developerConnection>scm:git:git@github.com:Dimaspb24/FirstMaven.git</developerConnection>
+        <url>https://github.com/Dimaspb24/FirstMaven</url>
+    </scm>
 
     <properties>
         <app.env>dev</app.env>
